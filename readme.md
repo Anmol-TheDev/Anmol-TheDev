@@ -1,3 +1,7 @@
+
+
+<div align="center">
+
 # Hi there, I'm Anmol 👋
 
 
@@ -22,3 +26,5 @@
 [![](https://visitcount.itsvg.in/api?id=Anmol-TheDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
